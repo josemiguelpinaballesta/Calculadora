@@ -9,7 +9,7 @@ package calculadora;
  *
  * @author Josemibek
  */
-public class Calculadora { // COMENTARIO DE PRUEBA
+public class Calculadora { // COMENTARIO DE PRUEBA MODIFICADO PARA EL EJERCICIO 6 RAMA 1
 
     private int num1;
     private int num2;
