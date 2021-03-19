@@ -9,7 +9,7 @@ package calculadora;
  *
  * @author Josemibek
  */
-public class Calculadora { // COMENTARIO DE PRUEBA MODIFICACION PARA APARTADO 3 
+public class Calculadora { // COMENTARIO DE PRUEBA MODIFICACION PARA APARTADO 3 Y APARTADO 5
 
     private int num1;
     private int num2;
